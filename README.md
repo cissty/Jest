@@ -37,7 +37,7 @@ To use these functions, follow these steps:
 You can use these functions by requiring them in your JavaScript code. Here's an example:
 
 ```javascript
-const { capitalize, reverseString, calculator, caesarCipher, analyzeArray } = require('./path/to/functions');
+const { capitalize, reverseString, calculator, caesarCipher, analyzeArray } = require('../function/js/file');
 
 // capitalize example
 console.log(capitalize('hello')); // Output: 'Hello'
